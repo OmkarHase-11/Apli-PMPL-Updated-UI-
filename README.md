@@ -20,6 +20,32 @@ View the complete Figma design here:
 - User-friendly layout
 - Mobile-first design
 
+## Screenshots
+
+### Home Screen
+![Home Screen](assets/homescreen.jpeg)
+
+### Smart Bus Tracking Screen
+![Smart Bus Tracking Screen](assets/smart-bus-tracking.jpeg)
+
+### Custom Bus Passes Screen
+![Custom Bus Passes Screen](assets/custom-bus-passes.jpeg)
+
+### Donation System Screen
+![Donation System Screen](assets/donation-system.jpeg)
+
+### SOS System Screen
+![SOS System Screen](assets/sos-system.jpeg)
+
+### Coin Credit System Screen
+![Coin Credit System Screen](assets/coin-credit-system.jpeg)
+
+### Help & Support Screen
+![Help & Support Screen](assets/help-support.jpeg)
+
+### User Profile Screen
+![User Profile Screen](assets/user-profile.jpeg)
+
 ## Tools Used
 
 - Figma
